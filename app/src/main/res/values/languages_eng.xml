@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="langs_en">
+        <item name="ru">Russian</item>
+        <item name="en">English</item>
+        <item name="az">Azerbaijani</item>
+        <item name="sq">Albanian</item>
+        <item name="ar">Arabian</item>
+        <item name="hy">Armenian</item>
+        <item name="id">Indonesian</item>
+        <item name="vi">Vietnamese</item>
+        <item name="nl">Dutch</item>
+        <item name="ka">Georgian</item>
+        <item name="fr">French</item>
+        <item name="ja">Japanese</item>
+        <item name="uk">Ukrainian</item>
+        <item name="cs">Czech</item>
+        <item name="hi">Indian</item>
+        <item name="tr">Turkish</item>
+        <item name="zh">Chinese</item>
+        <item name="sr">Serbian</item>
+        <item name="de">Deutsch</item>
+        <item name="da">Danish</item>
+    </string-array>
+</resources>

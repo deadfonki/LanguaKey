@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="langs_v">
+        <item>ru</item>
+        <item>en</item>
+        <item>az</item>
+        <item>sq</item>
+        <item>ar</item>
+        <item>hy</item>
+        <item>id</item>
+        <item>vi</item>
+        <item>nl</item>
+        <item>ka</item>
+        <item>fr</item>
+        <item>ja</item>
+        <item>uk</item>
+        <item>cs</item>
+        <item>hi</item>
+        <item>tr</item>
+        <item>zh</item>
+        <item>sr</item>
+        <item>de</item>
+        <item>da</item>
+    </string-array>
+</resources>

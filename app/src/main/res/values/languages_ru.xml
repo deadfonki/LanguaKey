@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="langs">
+    <item name="ru">Русский</item>
+        <item name="en">Английский</item>
+        <item name="az">Азербайджанский</item>
+        <item name="sq">Албанский</item>
+        <item name="ar">Арабский</item>
+        <item name="hy">Армянский</item>
+        <item name="id">Индонезийский</item>
+        <item name="vi">Вьетнамский</item>
+        <item name="nl">Голладнский</item>
+        <item name="ka">Грузинский</item>
+        <item name="fr">Французский</item>
+        <item name="ja">Японксий</item>
+        <item name="uk">Украинский</item>
+        <item name="cs">Чешский</item>
+        <item name="hi">Индийский</item>
+        <item name="tr">Турецкий</item>
+        <item name="zh">Китайский</item>
+        <item name="sr">Сербский</item>
+        <item name="de">Немецкий</item>
+        <item name="da">Датский</item>
+    </string-array>
+</resources>

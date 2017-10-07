@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/lout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/lkey"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@android:drawable/alert_dark_frame"
+            android:elevation="0dp"
+            android:text="@string/short_tag"
+            android:textColor="@android:color/background_light"
+            tools:text="@string/short_tag" />
+
+        <Spinner
+            android:id="@+id/spin"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/alert_light_frame"
+            android:dropDownWidth="match_parent"
+            android:popupBackground="@android:drawable/alert_light_frame"
+            android:spinnerMode="dropdown"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/lkey"
+            android:layout_toEndOf="@+id/lkey" />
+    </RelativeLayout>
+
+    <android.inputmethodservice.KeyboardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/keyboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:keyPreviewLayout ="@layout/preview"
+        />
+
+
+
+</LinearLayout>
